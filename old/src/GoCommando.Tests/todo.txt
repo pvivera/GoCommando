@@ -1,2 +1,0 @@
-﻿* add ability to specify and bind default values for named arguments
-* add ability to run user-supplied instance of ICommando
